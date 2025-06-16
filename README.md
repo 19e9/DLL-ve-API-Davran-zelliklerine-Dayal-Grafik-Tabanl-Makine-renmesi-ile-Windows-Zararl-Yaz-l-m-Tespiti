@@ -51,3 +51,7 @@ Aşağıda bazı örnek öznitelikler listelenmiştir:
 
 ```bash
 pip install pandas scikit-learn xgboost lightgbm matplotlib seaborn
+
+
+##Sunum
+https://prezi.com/p/edit/tzzzd-x-_e_p/
