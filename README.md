@@ -1,6 +1,3 @@
-# DLL-ve-API-Davran-zelliklerine-Dayal-Grafik-Tabanl-Makine-renmesi-ile-Windows-Zararl-Yaz-l-m-Tespiti
-DLL ve API Davranış Özelliklerine Dayalı Grafik Tabanlı Makine Öğrenmesi ile Windows  Zararlı Yazılım Tespiti 
-
 # DLL ve API Davranış Özelliklerine Dayalı Grafik Tabanlı Makine Öğrenmesi ile Windows Zararlı Yazılım Tespiti
 
 Bu proje, Windows çalıştırılabilir dosyalarının statik analizinden elde edilen API çağrı dizileri ve DLL ilişkilerine dayalı olarak, zararlı yazılım tespiti gerçekleştirmeyi amaçlamaktadır. Grafik benzeri yapılar üzerinden davranışsal öznitelikler çıkarılmış ve bu veriler farklı makine öğrenmesi algoritmalarıyla sınıflandırılmıştır.
